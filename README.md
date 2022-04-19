@@ -52,4 +52,7 @@ No required data except the input images
 # Author
 
  * [Mostafa Noaman](https://github.com/moostafa1) - Sole author for this program.
+<<<<<<< HEAD
+ * [joining_images.py] (https://www.computervision.zone/topic/chapter-6-joining-images/) - derived fro murtaza's course
+=======
  * [joining_images.py] (https://www.computervision.zone/topic/chapter-6-joining-images/) - derived fro murtaza's course
