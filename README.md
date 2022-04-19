@@ -56,3 +56,4 @@ No required data except the input images
  * [joining_images.py] (https://www.computervision.zone/topic/chapter-6-joining-images/) - derived fro murtaza's course
 =======
  * [joining_images.py] (https://www.computervision.zone/topic/chapter-6-joining-images/) - derived fro murtaza's course
+>>>>>>> 62bc142f11c340f2657f41f819273df22b7cd16b
