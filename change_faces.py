@@ -13,7 +13,6 @@ imgGray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 maskGray = cv2.cvtColor(mask, cv2.COLOR_BGR2GRAY)
 
 
-haar_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 haar_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
 
 faces_rect = haar_cascade.detectMultiScale(imgGray, scaleFactor=1.1, minNeighbors=3)
